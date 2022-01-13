@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mChitipat
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning information and communication engineering @Chulalongkorn University
